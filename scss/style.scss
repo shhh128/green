@@ -1063,7 +1063,8 @@
             display: flex;
         }
         .container {
-            width: 600px;
+            width: 100%;
+            max-width: 600px;
             height: auto;
             background: #fff;
             margin: auto;
