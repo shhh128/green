@@ -1,6 +1,6 @@
 # 리액트 UIUX 반응형 디자인 프로젝트 푸른마을
 
-![image](https://github.com/user-attachments/assets/d3dbe043-68fb-45bd-9542-fbc05000f69d)
+![image](https://github.com/user-attachments/assets/1def1a6f-aeb4-4f0e-9b8e-15849da090bb)
 
 ![iPadAir](https://github.com/user-attachments/assets/644abea8-46e2-4181-82e5-d75633364ab7)
 ![iPadAir_menu](https://github.com/user-attachments/assets/a9f6a3f9-c11a-430d-b54a-039d5851ddc2)
